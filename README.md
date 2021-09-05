@@ -56,5 +56,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.figma.com/"><img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 
 </p>
-
+  
+  
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
