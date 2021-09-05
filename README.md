@@ -15,7 +15,7 @@ I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving 
 [![WordPress](https://img.shields.io/badge/XC_Blog-%23117AC9.svg?style=flat&labelColor=for-the-badge&logo=WordPress&logoColor=white)](https://xcdiary.wordpress.com/)
 
 <!-- Sample Dev class image -->
-<img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="dev_object" align="right" width="500" />
+<img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="dev_object" align="right" width="400" />
 
 ### 💼  Things that I'm currently working on & my experience: 
 * 🌱Learning Firmware Development. (RTOS)
