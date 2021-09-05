@@ -28,7 +28,7 @@ I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/xian-cong">
-    <img width="500" height="auto" align="right" alt="Xian Cong's github stats" 
+    <img width="400" height="auto" align="right" alt="Xian Cong's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=xian-cong&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Xian Cong's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=xian-cong&layout=compact" />
@@ -56,6 +56,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.figma.com/"><img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a></code>
 
 </p>
-  
   
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
