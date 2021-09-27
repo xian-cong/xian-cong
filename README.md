@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm passionate in **Electrical & Electronics Engineering**:bulb:, creating both software:computer: and hardware:wrench: that can help people as well as **building a community**.
+I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm currently studying **Electrical & Electronics Engineering**:bulb:, passionate in creating both software:computer: and hardware:wrench: that can help people as well as **building a community**.
 <br>
 
 <!-- Your badges -->
@@ -23,7 +23,7 @@ I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving 
 * 🌱Learning nRF, MCU, ESP...
 * 🔭AI Model Development for Computer Vision (Classification & Object Detection & Image Segmentation)
 * 🔭Various IoT & AI projects using Arduino & Raspberry Pi
-* 📖Looking forward to take a Electrical & Electronics course in future.
+* 📖Studying Electrical & Electronics.
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
