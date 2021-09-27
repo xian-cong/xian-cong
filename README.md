@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Xian Cong, 19, a **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm currently studying **Electrical & Electronics Engineering**:bulb:, passionate in creating both software:computer: and hardware:wrench: that can help people as well as **building a community**.
+I'm Xian Cong, 19, an ex **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm currently studying **Electrical & Electronics Engineering**:bulb:, passionate in creating both software:computer: and hardware:wrench: that can help people as well as **building a community**.
 <br>
 
 <!-- Your badges -->
