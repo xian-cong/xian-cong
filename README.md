@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Xian Cong, a former **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm currently pursing **Bachelor of Electrical & Electronics Engineering**:bulb: at the University of Nottingham. I’m passionate and experienced in both hardware:wrench: and software:computer: development including PCB design, AI model development and deployment in microprocessor, firmware development with Real Time Operating System, prototype design and data visualization for IoT. You can check out more about my previous projects from my [resume](https://github.com/xian-cong/xian-cong/blob/main/Koay%20Xian%20Cong%20Resume.pdf).
+I'm Xian Cong, a former **Junior AI Engineer**🖥! I'm looking forward to solving **real-world problems**:earth_asia:. I'm currently pursing **Bachelor of Electrical & Electronics Engineering**:bulb: at the University of Nottingham. I’m passionate and experienced in both hardware:wrench: and software:computer: development including PCB design, AI model development and deployment in microprocessor, firmware development with Real Time Operating System, prototype design and data visualization for IoT. You can check out more about my previous projects from my [resume](https://github.com/xian-cong/xian-cong/blob/main/Koay%20Xian%20Cong%20Resume%20Updated.pdf).
 <br>
 
 <!-- Your badges -->
